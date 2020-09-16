@@ -9,7 +9,7 @@
 	<key>#GPU</key>
 	<string>AMD Radeon RX5600XT</string>
 	<key>#Config correct by</key>
-	<string>Francis Lance</string>
+	<string>Franocisgar</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -816,8 +816,7 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array>
-		</array>
+		<array/>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -945,7 +944,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>darkwake=3 alcid=1 alcdelay=1000 agdpmod=pikera igfxfw=2</string>
+				<string>-v darkwake=3 alcid=1 alcdelay=1000 agdpmod=pikera igfxfw=2</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
@@ -1012,7 +1011,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C029394014NLNV91F</string>
+			<string>M0000000000000001</string>
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1020,9 +1019,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZGMYMJV3Q</string>
+			<string>W00000000001</string>
 			<key>SystemUUID</key>
-			<string>504B8BDD-5FBE-4665-A638-35D3005A6AA0</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
