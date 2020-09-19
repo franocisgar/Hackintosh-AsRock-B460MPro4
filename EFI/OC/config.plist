@@ -231,24 +231,6 @@
 				<data>AwDImw==</data>
 				<key>device-id</key>
 				<data>mz4AAA==</data>
-				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con0-type</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-flags</key>
-				<data>zwMAAA==</data>
-				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-flags</key>
-				<data>zwMAAA==</data>
-				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
@@ -816,7 +798,8 @@
 	<key>Misc</key>
 	<dict>
 		<key>BlessOverride</key>
-		<array/>
+		<array>
+		</array>
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
@@ -944,7 +927,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v darkwake=3 alcid=1 alcdelay=1000 agdpmod=pikera igfxfw=2</string>
+				<string>-v darkwake=3 alcid=1 alcdelay=1000 agdpmod=pikera</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
