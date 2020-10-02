@@ -1,4 +1,4 @@
-# Hackintosh-ASRock-B460M-Pro-4
+# Hackintosh-AsRock-B460M-Pro-4
 OpenCore 0.6.1
 MB：ASRock B460M Pro 4
 CPU：Intel Core I5 10400
