@@ -1,5 +1,6 @@
 [中文](https://github.com/franocisgar/Hackintosh-AsRock-B460M-Pro-4/blob/master/README.md)
-# Hackintosh-AsRock-B460M-Pro-4
+# Hackintosh-AsRock-B460M-Pro-4  
+The EFI requires dgpu  
 EFI version:OpenCore 0.6.1  
 MB:ASRock B460M Pro 4  
 CPU:Intel Core I5 10400  
