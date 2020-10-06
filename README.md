@@ -10,7 +10,7 @@
   
 华擎B460M Pro 4  
 该EFI需使用独显  
-EFI版本:OpenCore 0.6.1  
+EFI版本:OpenCore 0.6.1+  
 主板:华擎 B460M Pro 4  
 CPU:Intel Core I5 10400  
 独显：盈通萌宠RX5600XT 伪装成Radeon Pro W5700X  
