@@ -1,5 +1,13 @@
 [English version](https://github.com/franocisgar/Hackintosh-AsRock-B460M-Pro-4/blob/master/README_EN.md)  
 # Hackintosh-AsRock-B460M-Pro-4
+
+
+关于更新 
+从OpenCore0.6.2版本起，该机器已不在本人手上，所以目前只推出EFI beta版本，有需要的朋友可参照beta版进行相应的修改
+，beta版本不做可使用的保证.
+至于EFI正式版等过段时间有闲情重新入一套B460M Pro 4再进行更新
+
+
 华擎B460M Pro 4  
 该EFI需使用独显  
 EFI版本:OpenCore 0.6.1  
