@@ -9,6 +9,7 @@ Update OpenCore to 0.6.2
 Related driver update  
   
   
+2020/10/06  
 About the update  
 
 Since OpenCore version 0.6.2, the machine is no longer in my hands, so only the EFI beta version is currently launched. Friends in need can refer to the beta version for corresponding modifications, and the beta version does not make useable guarantees.
