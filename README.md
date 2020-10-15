@@ -1,5 +1,11 @@
 [English version](https://github.com/franocisgar/Hackintosh-AsRock-B460M-Pro-4/blob/master/README_EN.md)  
-# Hackintosh-AsRock-B460M-Pro-4
+# Hackintosh-AsRock-B460M-Pro-4  
+  
+   
+更新日志  
+2020/10/15  
+更新OpenCore至0.6.2  
+相关驱动更新  
   
   
 关于更新  
