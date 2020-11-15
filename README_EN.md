@@ -24,7 +24,7 @@ As for the official version of EFI, there will be a leisure to re-enter a set of
 The EFI requires dgpu  
 EFI version:OpenCore 0.6.1+  
 MB:ASRock B460M Pro 4  
-CPU:Intel Core I5 10400  
+CPU:Intel Core I5 10400 or I9 10900ES(QTB1)  
 GPU:AMD Radeon RX5600XT Disguised as Radeon Pro W5700x  
 Please modify platforminfo yourself  
 If you are not using rx56000xt 5700 5700xt, please remove the config.plist All hardware descriptions of pciroot (0x0) / PCI (0x1,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0) under DeviceProperties in the file  
