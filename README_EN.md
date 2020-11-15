@@ -4,6 +4,10 @@
   
 Update log
 
+2020/11/16  
+Update OpenCore to 0.6.3  
+Related driver update  
+
 2020/10/15  
 Update OpenCore to 0.6.2  
 Related driver update  
