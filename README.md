@@ -7,6 +7,7 @@
 更新OpenCore至0.6.3  
 相关驱动更新  
 自己已入手华擎B460M Pro 4+10900es(QTB1),同样用QTB1的朋友可以在platforminfo信息下将ProcessorType的数值从0更改为4105,达到关于本机的CPU型号显示  
+修复了黑果下PCI的设备显示  
 
 2020/10/15  
 更新OpenCore至0.6.2  
