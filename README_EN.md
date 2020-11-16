@@ -7,7 +7,7 @@ Update log
 2020/11/16  
 Update OpenCore to 0.6.3  
 Related driver update  
-I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use qtb1 can change the value of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
+I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use qtb1 can change the numbers of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
 
 2020/10/15  
 Update OpenCore to 0.6.2  
