@@ -2,7 +2,7 @@
 # Hackintosh-AsRock-B460M-Pro-4  
   
   
-Update log
+Changelog
 
 2020/11/16  
 Update OpenCore to 0.6.3  
