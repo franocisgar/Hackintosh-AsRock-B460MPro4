@@ -26,7 +26,7 @@ Since OpenCore version 0.6.2, the machine is no longer in my hands, so only the 
   
 As for the official version of EFI, there will be a leisure to re-enter a set of B460M Pro 4 for later updates.
   
-The EFI requires dgpu  
+If not PCI-E graphics, please use EFI of no Navi  
 EFI version:OpenCore 0.6.1+  
 MB:ASRock B460M Pro 4  
 CPU:Intel Core I5 10400 or I9 10900ES(QTB1)  
