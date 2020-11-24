@@ -27,7 +27,7 @@
   
   
 华擎B460M Pro 4  
-该EFI需使用独显  
+如果没有独显 请使用No Navi的EFI  
 EFI版本:OpenCore 0.6.1+  
 主板:华擎 B460M Pro 4  
 CPU:Intel Core I5 10400或 I9 10900ES (QTB1)  
