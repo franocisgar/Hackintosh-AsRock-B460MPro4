@@ -32,5 +32,5 @@ MB:ASRock B460M Pro 4
 CPU:Intel Core I5 10400 or I9 10900ES(QTB1)  
 GPU:AMD Radeon RX5600XT Disguised as Radeon Pro W5700x  
 Please modify platforminfo yourself  
-If you are not using rx56000xt 5700 5700xt, please remove the config.plist All hardware descriptions of pciroot (0x0) / PCI (0x1,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0) under DeviceProperties in the file  
+If you are not using Navi core graphics, please use the version with No Navi EFI  
 Please modify the GUI skin of the startup interface
