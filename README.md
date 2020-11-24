@@ -32,7 +32,8 @@ EFI版本:OpenCore 0.6.1+
 主板:华擎 B460M Pro 4  
 CPU:Intel Core I5 10400或 I9 10900ES (QTB1)  
 独显：撼讯RX5500XT 伪装成 Radeon Pro W5500X  
-     盈通萌宠RX5600XT 伪装成Radeon Pro W5700X      
+     盈通萌宠RX5600XT 伪装成Radeon Pro W5700X  
+  
 请自行修改机型信息(platforminfo)  
 如果使用的不是Navi核心独显，请使用***.No.navi的EFI  
 关于启动界面的GUI皮肤，请自行修改
