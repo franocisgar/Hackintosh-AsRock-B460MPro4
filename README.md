@@ -3,6 +3,7 @@
   
    
 更新日志  
+  
 2020/11/24  
 加入了RX5500XT的优化EFI  
 加入了没有Navi显卡优化的EFI
@@ -32,5 +33,5 @@ EFI版本:OpenCore 0.6.1+
 CPU:Intel Core I5 10400或 I9 10900ES (QTB1)  
 独显：盈通萌宠RX5600XT 伪装成Radeon Pro W5700X  
 请自行修改机型信息(platforminfo)  
-如果使用的不是RX5600XT,5700,5700XT独显，请移除EFI下OC文件夹内的config.plist文件里的DeviceProperties下关于pciroot (0x0) / PCI (0x1,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0) / PCI (0x0,0x0)的所有硬件描述  
+如果使用的不是Navi核心独显，请使用***.No.navi的EFI  
 关于启动界面的GUI皮肤，请自行修改
