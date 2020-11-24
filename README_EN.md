@@ -4,7 +4,7 @@
   
 Changelog
 
-2020/11/24
+2020/11/24  
 The optimized EFI of rx5500xt is added  
 Added EFI without Navi graphics optimization  
   
