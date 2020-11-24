@@ -4,6 +4,10 @@
   
 Changelog
 
+2020/11/24
+The optimized EFI of rx5500xt is added  
+Added EFI without Navi graphics optimization  
+  
 2020/11/16  
 Update OpenCore to 0.6.3  
 Related driver update  
