@@ -30,7 +30,9 @@ The EFI requires dgpu
 EFI version:OpenCore 0.6.1+  
 MB:ASRock B460M Pro 4  
 CPU:Intel Core I5 10400 or I9 10900ES(QTB1)  
-GPU:AMD Radeon RX5600XT Disguised as Radeon Pro W5700x  
+GPU:AMD Radeon RX5500XT Disguised as Radeon Pro W5500x  
+AMD Radeon RX5600XT Disguised as Radeon Pro W5700x  
+
 Please modify platforminfo yourself  
 If you are not using Navi core graphics, please use the version with No Navi EFI  
 Please modify the GUI skin of the startup interface
