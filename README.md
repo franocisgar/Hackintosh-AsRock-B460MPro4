@@ -3,6 +3,9 @@
   
    
 更新日志  
+
+2020/11/27  
+RX5500XT的EFI加入了SSDT-RX 5500 XT-Version 1.0.aml的并修改了Config下的DeviceProperties关于RX5500XT的部分信息  
   
 2020/11/24  
 加入了RX5500XT的优化EFI  
