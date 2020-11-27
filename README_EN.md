@@ -2,8 +2,11 @@
 # Hackintosh-AsRock-B460M-Pro-4  
   
   
-Changelog
-
+Changelog  
+  
+2020/11/27  
+The EFI of rx5500xt adds ssdt-rx5500xt-version 1.0.aml to EFI of rx5500xt, and modifies some information about rx5500xt in deviceproperties under config
+  
 2020/11/24  
 The optimized EFI of rx5500xt is added  
 Added EFI without Navi graphics optimization  
