@@ -5,7 +5,7 @@
 更新日志  
   
 2020/11/29  
-在RX5500XT的EFI中重新编译了关于RX5500XT的SSDT(更新了ROM修正版、VBIOS版本、EFI驱动程序版本),并修改显示型号为W5500X,并在Config下的DeviceProperties下把所有关于RX5500XT的信息删除  
+在RX5500XT的EFI中重新编译了关于RX5500XT的SSDT-RX5500XT-To-W5500X-Version1.0(更新了ROM修正版、VBIOS版本、EFI驱动程序版本),并修改显示型号为W5500X,并在Config下的DeviceProperties下把所有关于RX5500XT的信息删除  
   
 2020/11/27  
 RX5500XT的EFI加入了SSDT-RX 5500 XT-Version 1.0.aml的并修改了Config下的DeviceProperties关于RX5500XT的部分信息  
