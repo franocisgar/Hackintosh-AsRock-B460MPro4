@@ -4,7 +4,7 @@
   
 Changelog  
   
-In the EFI of rx5500xt, the SSDT about rx5500xt is recompiled (the ROM revision, VBIOS version and EFI driver version are updated), and the display model is modified to w5500x. All the information about rx5500xt is deleted under device properties under config  
+Recompile and change ssdt-rx5500xt-to-w5500x-version 1.0 (updated ROM revision, VBIOS version, EFI driver version) of rx5500xt in EFI of rx5500xt, and modify the display model to w5500x. All the information about rx5500xt is deleted under device properties under config  
   
 2020/11/27  
 The EFI of rx5500xt adds ssdt-rx5500xt-version 1.0.aml to EFI of rx5500xt, and modifies some information about rx5500xt in deviceproperties under config
