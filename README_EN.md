@@ -5,7 +5,7 @@
 Changelog  
   
   
-2020/12/8
+2020/12/8  
 Update OpenCore to 0.6.4  
 Related driver update  
 Lilu V1.5.0  
