@@ -4,21 +4,37 @@
   
 Changelog  
   
+  
+2020/12/8
+Update OpenCore to 0.6.4  
+Related driver update  
+Lilu V1.5.0  
+AppleALC V1.5.5  
+VirtualSMC V1.1.9  
+SMCProcessor V1.1.9  
+SMCSuperIO V1.1.9  
+WhateverGreen V1.4.5  
+  
+  
 Recompile and change ssdt-rx5500xt-to-w5500x-version 1.0 (updated ROM revision, VBIOS version, EFI driver version) of rx5500xt in EFI of rx5500xt, and modify the display model to w5500x. All the information about rx5500xt is deleted under device properties under config  
+  
   
 2020/11/27  
 The EFI of rx5500xt adds ssdt-rx5500xt-version 1.0.aml to EFI of rx5500xt, and modifies some information about rx5500xt in deviceproperties under config
   
+  
 2020/11/24  
 The optimized EFI of rx5500xt is added  
 Added EFI without Navi graphics optimization  
+  
   
 2020/11/16  
 Update OpenCore to 0.6.3  
 Related driver update  
 I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use qtb1 can change the numbers of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
 Fixed PCI device display under Hackintosh  
-
+  
+  
 2020/10/15  
 Update OpenCore to 0.6.2  
 Related driver update  
