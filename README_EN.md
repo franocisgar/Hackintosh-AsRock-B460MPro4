@@ -15,7 +15,7 @@ SMCProcessor V1.1.9
 SMCSuperIO V1.1.9  
 WhateverGreen V1.4.5  
   
-  
+2020/11/29   
 Recompile and change ssdt-rx5500xt-to-w5500x-version 1.0 (updated ROM revision, VBIOS version, EFI driver version) of rx5500xt in EFI of rx5500xt, and modify the display model to w5500x. All the information about rx5500xt is deleted under device properties under config  
   
   
