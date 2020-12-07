@@ -3,6 +3,16 @@
   
    
 更新日志  
+
+2020/12/8  
+更新OpenCore至0.6.4  
+相关驱动更新  
+Lilu V1.5.0  
+AppleALC V1.5.5  
+VirtualSMC V1.1.9  
+SMCProcessor V1.1.9   
+SMCSuperIO V1.1.9  
+WhateverGreen V1.4.5     
   
 2020/11/29  
 在RX5500XT的EFI中重新编译并更改关于RX5500XT的SSDT-RX5500XT-To-W5500X-Version1.0(更新了ROM修正版、VBIOS版本、EFI驱动程序版本),并修改显示型号为W5500X,并在Config下的DeviceProperties下把所有关于RX5500XT的信息删除  
