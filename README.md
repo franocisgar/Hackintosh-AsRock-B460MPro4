@@ -1,61 +1,60 @@
-[English version](https://github.com/franocisgar/Hackintosh-AsRock-B460M-Pro-4/blob/master/README_EN.md)  
+[中文](https://github.com/franocisgar/Hackintosh-AsRock-B460M-Pro-4/blob/master/README_CN.md)
 # Hackintosh-AsRock-B460M-Pro-4  
   
-   
-更新日志  
+  
+Changelog  
   
   
 2020/12/8  
-更新OpenCore至0.6.4  
-相关驱动更新  
+Update OpenCore to 0.6.4  
+Related driver update  
 Lilu V1.5.0  
 AppleALC V1.5.5  
 VirtualSMC V1.1.9  
-SMCProcessor V1.1.9   
+SMCProcessor V1.1.9  
 SMCSuperIO V1.1.9  
-WhateverGreen V1.4.5     
+WhateverGreen V1.4.5  
   
-  
-2020/11/29  
-在RX5500XT的EFI中重新编译并更改关于RX5500XT的SSDT-RX5500XT-To-W5500X-Version1.0(更新了ROM修正版、VBIOS版本、EFI驱动程序版本),并修改显示型号为W5500X,并在Config下的DeviceProperties下把所有关于RX5500XT的信息删除  
+2020/11/29   
+Recompile and change ssdt-rx5500xt-to-w5500x-version 1.0 (updated ROM revision, VBIOS version, EFI driver version) of rx5500xt in EFI of rx5500xt, and modify the display model to w5500x. All the information about rx5500xt is deleted under device properties under config  
   
   
 2020/11/27  
-RX5500XT的EFI加入了SSDT-RX 5500 XT-Version 1.0.aml的并修改了Config下的DeviceProperties关于RX5500XT的部分信息  
+The EFI of rx5500xt adds ssdt-rx5500xt-version 1.0.aml to EFI of rx5500xt, and modifies some information about rx5500xt in deviceproperties under config
   
   
 2020/11/24  
-加入了RX5500XT的优化EFI  
-加入了没有Navi显卡优化的EFI
+The optimized EFI of rx5500xt is added  
+Added EFI without Navi graphics optimization  
   
   
 2020/11/16  
-更新OpenCore至0.6.3  
-相关驱动更新  
-自己已入手华擎B460M Pro 4+10900es(QTB1),同样用QTB1的朋友可以在platforminfo信息下将ProcessorType的数值从0更改为4105,达到关于本机的CPU型号显示  
-修复了黑果下PCI的设备显示  
+Update OpenCore to 0.6.3  
+Related driver update  
+I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use qtb1 can change the numbers of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
+Fixed PCI device display under Hackintosh  
   
   
 2020/10/15  
-更新OpenCore至0.6.2  
-相关驱动更新  
- 
- 
+Update OpenCore to 0.6.2  
+Related driver update  
+  
+  
 2020/10/06  
-关于更新  
-从OpenCore0.6.2版本起，该机器已不在本人手上，所以目前只推出EFI beta版本，有需要的朋友可参照beta版进行相应的修改
-，beta版本不做可使用的保证  
-至于EFI正式版等过段时间有闲情重新入一套B460M Pro 4再进行更新  
+About the update  
+
+Since OpenCore version 0.6.2, the machine is no longer in my hands, so only the EFI beta version is currently launched. Friends in need can refer to the beta version for corresponding modifications, and the beta version does not make useable guarantees.
   
+As for the official version of EFI, there will be a leisure to re-enter a set of B460M Pro 4 for later updates.
   
-华擎B460M Pro 4  
-如果没有独显 请使用***.No.navi的EFI  
-如果使用的不是Navi核心独显，请使用***.No.navi的EFI  
-EFI版本:OpenCore 0.6.1+  
-主板:华擎 B460M Pro 4  
-CPU:Intel Core I5 10400或 I9 10900ES (QTB1)  
-独显：撼讯RX5500XT 伪装成 Radeon Pro W5500X  
-     盈通萌宠RX5600XT 伪装成Radeon Pro W5700X  
-  
-请自行修改机型信息(platforminfo)   
-关于启动界面的GUI皮肤，请自行修改
+If not PCI-E graphics, please use EFI of No Navi  
+If you are not using Navi core graphics, please use the version with No Navi EFI  
+EFI version:OpenCore 0.6.1+  
+MB:ASRock B460M Pro 4  
+CPU:Intel Core I5 10400 or I9 10900ES(QTB1)  
+GPU:AMD Radeon RX5500XT Disguised as Radeon Pro W5500x  
+AMD Radeon RX5600XT Disguised as Radeon Pro W5700x  
+
+Please modify platforminfo yourself  
+Please modify the GUI skin of the startup interface
+
