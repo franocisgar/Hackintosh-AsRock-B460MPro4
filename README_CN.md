@@ -17,7 +17,7 @@ WhateverGreen V1.4.6
 在5500XT EFI版本里 移除SSDT-RX5500XT-To-W5500X-Version1.0的默认加载  
   
   
-2020/12/8  
+12-8-2020  
 更新OpenCore至0.6.4  
 相关驱动更新  
 Lilu V1.5.0  
@@ -28,32 +28,32 @@ SMCSuperIO V1.1.9
 WhateverGreen V1.4.5     
   
   
-2020/11/29  
+11-29-2020  
 在RX5500XT的EFI中重新编译并更改关于RX5500XT的SSDT-RX5500XT-To-W5500X-Version1.0(更新了ROM修正版、VBIOS版本、EFI驱动程序版本),并修改显示型号为W5500X,并在Config下的DeviceProperties下把所有关于RX5500XT的信息删除  
   
   
-2020/11/27  
+11-27-2020   
 RX5500XT的EFI加入了SSDT-RX 5500 XT-Version 1.0.aml的并修改了Config下的DeviceProperties关于RX5500XT的部分信息  
   
   
-2020/11/24  
+11-24-2020  
 加入了RX5500XT的优化EFI  
 加入了没有Navi显卡优化的EFI
   
   
-2020/11/16  
+11-16-2020  
 更新OpenCore至0.6.3  
 相关驱动更新  
 自己已入手华擎B460M Pro 4+10900es(QTB1),同样用QTB1的朋友可以在platforminfo信息下将ProcessorType的数值从0更改为4105,达到关于本机的CPU型号显示  
 修复了黑果下PCI的设备显示  
   
   
-2020/10/15  
+10-15-2020  
 更新OpenCore至0.6.2  
 相关驱动更新  
  
  
-2020/10/06  
+10-6-2020  
 关于更新  
 从OpenCore0.6.2版本起，该机器已不在本人手上，所以目前只推出EFI beta版本，有需要的朋友可参照beta版进行相应的修改
 ，beta版本不做可使用的保证  
