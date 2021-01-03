@@ -14,6 +14,7 @@ VirtualSMC V1.2.0
 SMCProcessor V1.2.0  
 SMCSuperIO V1.2.0  
 WhateverGreen V1.4.6  
+Remove ssdt-rx5500xt-to-w5500x-version 1.0.aml of 5500XT EFI.  
   
 8-12-2020  
 Update OpenCore to 0.6.4  
