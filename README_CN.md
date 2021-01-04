@@ -2,7 +2,7 @@
 # Hackintosh-AsRock-B460M-Pro-4  
   
    
-更新日志  
+### 更新日志  
   
   
 1-X-2021  
@@ -59,6 +59,7 @@ RX5500XT的EFI加入了SSDT-RX 5500 XT-Version 1.0.aml的并修改了Config下�
 ，beta版本不做可使用的保证  
 至于EFI正式版等过段时间有闲情重新入一套B460M Pro 4再进行更新  
   
+### 使用情况  
   
 华擎B460M Pro 4  
 如果没有独显 请使用***.No.navi的EFI  
