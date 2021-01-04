@@ -2,7 +2,7 @@
 # Hackintosh-AsRock-B460M-Pro-4  
   
   
-Changelog  
+### Changelog  
   
   
 1-X-2021  
@@ -55,7 +55,9 @@ Related driver update
 About the update  
 
 Since OpenCore version 0.6.2, the machine is no longer in my hands, so only the EFI beta version is currently launched. Friends in need can refer to the beta version for corresponding modifications, and the beta version does not make useable guarantees.
-  
+ 
+### Information  
+ 
 As for the official version of EFI, there will be a leisure to re-enter a set of B460M Pro 4 for later updates.
   
 If not PCI-E graphics, please use EFI of No Navi  
