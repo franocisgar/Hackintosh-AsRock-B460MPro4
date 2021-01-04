@@ -72,3 +72,12 @@ CPU:Intel Core I5 10400或 I9 10900ES (QTB1)
   
 请自行修改机型信息(platforminfo)   
 关于启动界面的GUI皮肤，请自行修改
+
+### Credits
+
+- 感谢[Acidanthera](https://github.com/acidanthera)提供[AppleALC](https://github.com/acidanthera/AppleALC),[Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC)and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).  
+- 感谢[daliansky](https://github.com/daliansky)提供[OC-little](https://github.com/daliansky/OC-little).  
+- 感谢[khronokernel](https://github.com/khronokernel) 提供[OpenCanopy-Big-Sur](https://github.com/khronokernel/OpenCanopy-Big-Sur).  
+- 感谢(https://github.com/yrambler2001) and [Hackintosh-Intel-i5-10600-iGPU-AsRock-B460M-Pro4](https://github.com/yrambler2001/Hackintosh-Intel-i5-10600-iGPU-AsRock-B460M-Pro4) 提供USB补丁.
+- 感谢[stevezhengshiqi](https://github.com/stevezhengshiqi) 对我的教导.  
+
