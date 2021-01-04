@@ -75,6 +75,6 @@ Please modify the GUI skin of the startup interface
 
 - Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC),[Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC)and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).  
 - Thanks to [daliansky](https://github.com/daliansky) for providing [OC-little](https://github.com/daliansky/OC-little).  
-- Thanks to [khronokernel](https://github.com/yrambler2001/Hackintosh-Intel-i5-10600-iGPU-AsRock-B460M-Pro4) for providing [OpenCanopy-Big-Sur](https://github.com/khronokernel/OpenCanopy-Big-Sur).  
+- Thanks to [khronokernel](https://github.com/khronokernel) for providing [OpenCanopy-Big-Sur](https://github.com/khronokernel/OpenCanopy-Big-Sur).  
 - Thanks to [yrambler2001](https://github.com/yrambler2001) and [Hackintosh-Intel-i5-10600-iGPU-AsRock-B460M-Pro4](https://github.com/yrambler2001/Hackintosh-Intel-i5-10600-iGPU-AsRock-B460M-Pro4) for providing sample of USB patches.
 - Thanks to [stevezhengshiqi](https://github.com/stevezhengshiqi) to teach me how to perfect this EFI.  
