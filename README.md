@@ -71,3 +71,10 @@ AMD Radeon RX5600XT Disguised as Radeon Pro W5700x
 Please modify platforminfo yourself  
 Please modify the GUI skin of the startup interface
 
+### Credits
+
+- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleALC](https://github.com/acidanthera/AppleALC),[Lilu](https://github.com/acidanthera/Lilu), [OcBinaryData](https://github.com/acidanthera/OcBinaryData), [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg), [VirtualSMC](https://github.com/acidanthera/VirtualSMC)and [WhateverGreen](https://github.com/acidanthera/WhateverGreen).  
+- Thanks to [daliansky](https://github.com/daliansky) for providing [OC-little](https://github.com/daliansky/OC-little).  
+- Thanks to [hieplpvip](https://github.com/hieplpvip) and [syscl](https://github.com/syscl) for providing sample of DSDT patches.
+- Thanks to [khronokernel](https://github.com/khronokernel) for providing [OpenCanopy-Big-Sur](https://github.com/khronokernel/OpenCanopy-Big-Sur).  
+- Thanks to [stevezhengshiqi](https://github.com/stevezhengshiqi) to teach me how to perfect this EFI.  
