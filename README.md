@@ -5,7 +5,7 @@
 ### Changelog  
   
   
-1-X-2021  
+1-5-2021  
 Update OpenCore to 0.6.5   
 Related driver update  
 Lilu V1.5.1  
