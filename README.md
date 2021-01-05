@@ -8,12 +8,6 @@
 1-5-2021  
 Update OpenCore to 0.6.5   
 Related driver update  
-Lilu V1.5.1  
-AppleALC V1.5.6  
-VirtualSMC V1.2.0  
-SMCProcessor V1.2.0  
-SMCSuperIO V1.2.0  
-WhateverGreen V1.4.6  
 Remove ssdt-rx5500xt-to-w5500x-version 1.0.aml of 5500XT version EFI.  
   
 12-8-2020  
