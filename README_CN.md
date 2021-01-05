@@ -8,12 +8,6 @@
 1-5-2021  
 更新OpenCore至0.6.5  
 相关驱动更新  
-Lilu V1.5.1  
-AppleALC V1.5.6  
-VirtualSMC V1.2.0  
-SMCProcessor V1.2.0   
-SMCSuperIO V1.2.0  
-WhateverGreen V1.4.6     
 在5500XT EFI版本里 移除SSDT-RX5500XT-To-W5500X-Version1.0的默认加载  
   
   
