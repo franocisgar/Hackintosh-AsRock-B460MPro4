@@ -6,7 +6,7 @@
   
   
 1-5-2021  
-更新OpenCore至0.6.4  
+更新OpenCore至0.6.5  
 相关驱动更新  
 Lilu V1.5.1  
 AppleALC V1.5.6  
