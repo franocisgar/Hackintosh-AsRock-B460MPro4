@@ -5,6 +5,10 @@
 ### Changelog  
   
   
+2-28-2021  
+Update OpenCore to 0.6.6   
+Related driver update  
+
 1-5-2021  
 Update OpenCore to 0.6.5   
 Related driver update  
