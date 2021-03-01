@@ -5,6 +5,11 @@
 ### Changelog  
   
   
+3-x-2021  
+Update OpenCore to 0.6.7   
+Related driver update  
+Delete SSDT-PMC.aml SSDT-RHUB.aml of EFI/OC/ACPI.  
+  
 2-28-2021  
 Update OpenCore to 0.6.6   
 Related driver update  
