@@ -5,10 +5,10 @@
 ### Changelog  
   
   
-3-x-2021  
+3-2-2021  
 Update OpenCore to 0.6.7   
 Related driver update  
-Delete SSDT-PMC.aml SSDT-RHUB.aml of EFI/OC/ACPI,Because the motherboard supports NVRAM, USB correction does not need SSDT- RHUB.aml supports.  
+Delete SSDT-RHUB.aml of EFI/OC/ACPI, USB correction does not need SSDT- RHUB.aml supports,about SSDT-PMC.aml,Although the motherboard has its own NVRAM, it needs to be reset to display the correct version number of OpenCore.  
   
 2-28-2021  
 Update OpenCore to 0.6.6   
