@@ -5,10 +5,10 @@
 ### 更新日志  
   
   
-3-x-2021  
+3-2-2021  
 更新OpenCore至0.6.7  
 相关驱动更新  
-删除EFI/OC/ACPI里SSDT-PMC.aml及SSDT-RHUB.aml的支持,因为主板原生支持NVRAM,USB修正无需SSDT-RHUB.aml的支持.  
+删除EFI/OC/ACPI里SSDT-RHUB.aml的支持,USB修正无需SSDT-RHUB.aml的支持,关于SSDT-PMC.aml,虽然主板有自带Nvram,但常经测试,主板自带的Nvram需要重置后才能显示正确的OpenCore版本号.  
   
 2-28-2021  
 更新OpenCore至0.6.6  
