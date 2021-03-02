@@ -9,7 +9,7 @@
 更新OpenCore至0.6.7  
 相关驱动更新  
 删除EFI/OC/ACPI下的SSDT-PMC.aml及SSDT-RHUB.aml的支持,主板自带nvram,无需SSDT-PMC.aml,USB修正无需SSDT-RHUB.aml的支持.  
-放弃IntelMausiEthernet.kext驱动,转用IntelMausi.kext驱动.
+放弃IntelMausiEthernet.kext驱动,转用IntelMausi.kext驱动.  
 建议重建缓存再食用,同时重制nvram.  
 
 2-28-2021  
