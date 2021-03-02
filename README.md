@@ -10,6 +10,7 @@ Update OpenCore to 0.6.7
 Related driver update  
 Delete SSDT-PMC.aml And SSDT-RHUB.aml of EFI/OC/ACPI,The motherboard has own Nvram,so it do not need SSDT-PMC.aml,USB correction does not need SSDT- RHUB.aml supports.  
 IntelMausiEthernet.kext change to IntelMausi.kext.  
+Please rebuild kextcache and reset nvram.  
   
 2-28-2021  
 Update OpenCore to 0.6.6   
