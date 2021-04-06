@@ -5,6 +5,16 @@
 ### Changelog  
   
   
+4-6-2021  
+Update OpenCore to 0.6.8  
+Related driver update  
+Lilu V1.5.2  
+AppleALC V1.5.9  
+VirtualSMC V1.2.2  
+SMCProcessor V1.2.2  
+SMCSuperIO V1.2.2  
+WhateverGreen V1.4.9  
+
 3-2-2021  
 Update OpenCore to 0.6.7   
 Related driver update  
