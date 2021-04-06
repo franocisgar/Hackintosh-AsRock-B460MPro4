@@ -57,7 +57,7 @@ Added EFI without Navi graphics optimization
 11-26-2020  
 Update OpenCore to 0.6.3  
 Related driver update  
-I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use qtb1 can change the numbers of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
+I have already started AsRock b460m Pro 4 + 10900es (qtb1). Friends who also use QTB0,QTB1 or QTB2 can change the numbers of processortype from 0 to 4105 under the information of platforminfo to display the CPU model of this machine  
 Fixed PCI device display under Hackintosh  
   
   
