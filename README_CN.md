@@ -5,6 +5,16 @@
 ### 更新日志  
   
   
+4-6-2021  
+更新OpenCore至0.6.8  
+相关驱动更新  
+Lilu V1.5.2  
+AppleALC V1.5.9  
+VirtualSMC V1.2.2  
+SMCProcessor V1.2.2  
+SMCSuperIO V1.2.2  
+WhateverGreen V1.4.9  
+
 3-2-2021  
 更新OpenCore至0.6.7  
 相关驱动更新  
