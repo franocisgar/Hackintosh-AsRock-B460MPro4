@@ -5,18 +5,18 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of iASLHoLHFL.aml, Wed Apr  7 09:01:16 2021
+ * Disassembly of iASLgiMqCB.aml, Wed Apr  7 09:35:43 2021
  *
  * Original Table Header:
  *     Signature        "SSDT"
- *     Length           0x00000367 (871)
+ *     Length           0x00000343 (835)
  *     Revision         0x02
- *     Checksum         0x01
+ *     Checksum         0x38
  *     OEM ID           "Lance"
  *     OEM Table ID     "France"
  *     OEM Revision     0x00000000 (0)
  *     Compiler ID      "INTL"
- *     Compiler Version 0x20200528 (538969384)
+ *     Compiler Version 0x20200925 (538970405)
  */
 DefinitionBlock ("", "SSDT", 2, "Lance", "France", 0x00000000)
 {
@@ -62,9 +62,9 @@ DefinitionBlock ("", "SSDT", 2, "Lance", "France", 0x00000000)
                 Return (Package (0x22)
                 {
                     "AAPL,slot-name", 
-                    Buffer (0x19)
+                    Buffer (0x07)
                     {
-                        "Slot-1@0,1,0/0,0/0,0/0,0"
+                        "Slot-1"
                     }, 
 
                     "ATY,Card#", 
@@ -182,9 +182,9 @@ DefinitionBlock ("", "SSDT", 2, "Lance", "France", 0x00000000)
                 Return (Package (0x08)
                 {
                     "AAPL,slot-name", 
-                    Buffer (0x19)
+                    Buffer (0x07)
                     {
-                        "Slot-1@0,1,0/0,0/0,0/0,1"
+                        "Slot-1"
                     }, 
 
                     "model", 
