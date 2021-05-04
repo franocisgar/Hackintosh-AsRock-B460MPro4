@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#Version</key>
-	<string>0.6.8</string>
+	<string>0.6.9 </string>
 	<key>#MotherBoard</key>
 	<string>ASRock B460M Pro 4</string>
 	<key>#GPU</key>
@@ -540,7 +540,7 @@
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
-			<string>Disabled</string>
+			<string>Full</string>
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
@@ -636,7 +636,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>igfxfw=2 igfxonln=1 alcid=1 gfxrst=1 alcdelay=500 shikigva=80</string>
+				<string>igfxfw=2 igfxonln=1 alcid=1 gfxrst=1 agdpmod=pikera alcdelay=500 shikigva=80</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -694,7 +694,7 @@
 			</array>
 		</dict>
 		<key>WriteFlash</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -758,7 +758,7 @@
 			<key>AppleEvent</key>
 			<string>Auto</string>
 			<key>CustomDelays</key>
-			<string>Auto</string>
+			<true/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
@@ -889,11 +889,17 @@
 			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
+			<false/>
+			<key>ReloadOptionRoms</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
