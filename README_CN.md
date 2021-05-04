@@ -13,7 +13,7 @@ AppleALC V1.6.0
 VirtualSMC V1.2.3  
 SMCProcessor V1.2.3  
 SMCSuperIO V1.2.3  
-IntelMausi V1.0.5
+IntelMausi V1.0.6  
   
 4-6-2021  
 更新OpenCore至0.6.8  
