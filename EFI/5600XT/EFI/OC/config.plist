@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>#Version</key>
-	<string>0.6.9 </string>
+	<string>0.7.3</string>
 	<key>#MotherBoard</key>
 	<string>ASRock B460M Pro 4</string>
 	<key>#GPU</key>
@@ -63,6 +63,8 @@
 			<false/>
 			<key>ResetLogoStatus</key>
 			<true/>
+			<key>SyncTableIds</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Booter</key>
@@ -134,6 +136,103 @@
 				<string>PCI bridge</string>
 				<key>model</key>
 				<string>6th-10th Gen Core Processor PCIe Controller (x16)</string>
+			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0) 1</key>
+			<dict>
+				<key>@0,name</key>
+				<string>ATY,Adder</string>
+				<key>@1,name</key>
+				<string>ATY,Adder</string>
+				<key>@2,name</key>
+				<string>ATY,Adder</string>
+				<key>@3,name</key>
+				<string>ATY,Adder</string>
+				<key>AAPL,slot-name</key>
+				<string>Slot-1</string>
+				<key>AAPL00,DualLink</key>
+				<data>AQAAAA==</data>
+				<key>ATY,Card#</key>
+				<string>102-D32200-00</string>
+				<key>ATY,Copyright</key>
+				<string>Copyright AMD Inc. All Rights Reserved. 2005-2019</string>
+				<key>ATY,DeviceName</key>
+				<string>W5700X</string>
+				<key>ATY,EFIVersion</key>
+				<string>01.01.190</string>
+				<key>ATY,FamilyName</key>
+				<string>Radeon Pro</string>
+				<key>ATY,Rom#</key>
+				<string>113-1E4112U-S46</string>
+				<key>CAIL_EnableLBPWSupport</key>
+				<integer>0</integer>
+				<key>CAIL_EnableMaxPlayloadSizeSync</key>
+				<integer>1</integer>
+				<key>CFG_CAA</key>
+				<integer>0</integer>
+				<key>CFG_FB_LIMIT</key>
+				<integer>0</integer>
+				<key>CFG_FORCE_MAX_DPS</key>
+				<integer>1</integer>
+				<key>CFG_GEN_FLAGS</key>
+				<integer>0</integer>
+				<key>CFG_NO_MST</key>
+				<integer>0</integer>
+				<key>CFG_NVV</key>
+				<integer>2</integer>
+				<key>CFG_PAA</key>
+				<integer>0</integer>
+				<key>CFG_PULSE_INT</key>
+				<integer>1</integer>
+				<key>CFG_TPS1S</key>
+				<integer>1</integer>
+				<key>CFG_TRANS_WSRV</key>
+				<integer>1</integer>
+				<key>CFG_UFL_CHK</key>
+				<integer>0</integer>
+				<key>CFG_UFL_STP</key>
+				<integer>0</integer>
+				<key>CFG_USE_AGDC</key>
+				<integer>1</integer>
+				<key>CFG_USE_CP2</key>
+				<integer>1</integer>
+				<key>CFG_USE_CPSTATUS</key>
+				<integer>1</integer>
+				<key>CFG_USE_DPT</key>
+				<integer>1</integer>
+				<key>CFG_USE_FBC</key>
+				<integer>0</integer>
+				<key>CFG_USE_FBWRKLP</key>
+				<integer>1</integer>
+				<key>CFG_USE_FEDS</key>
+				<integer>1</integer>
+				<key>CFG_USE_LPT</key>
+				<integer>1</integer>
+				<key>CFG_USE_PSR</key>
+				<integer>0</integer>
+				<key>CFG_USE_SCANOUT</key>
+				<integer>1</integer>
+				<key>CFG_USE_SRRB</key>
+				<integer>0</integer>
+				<key>CFG_USE_STUTTER</key>
+				<integer>1</integer>
+				<key>CFG_USE_TCON</key>
+				<integer>1</integer>
+				<key>PP_DisableDIDT</key>
+				<integer>1</integer>
+				<key>PP_DisablePowerContainment</key>
+				<integer>1</integer>
+				<key>PP_DisableVoltageIsland</key>
+				<integer>0</integer>
+				<key>PP_FuzzyFanControl</key>
+				<integer>1</integer>
+				<key>device_type</key>
+				<string>ATY,AdderParent</string>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+				<key>model</key>
+				<string>Radeon Pro W5700X</string>
+				<key>name</key>
+				<string>ATY_GPU</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x1)</key>
 			<dict>
@@ -227,134 +326,19 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AwCSPg==</data>
-				<key>AAPL,slot-name</key>
-				<string>Internal@0,2,0</string>
+				<data>BwCbPg==</data>
 				<key>device-id</key>
 				<data>kj4AAA==</data>
-				<key>device_type</key>
-				<string>VGA compatible controller</string>
-				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-type</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-flags</key>
-				<data>zwMAAA==</data>
-				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con2-flags</key>
-				<data>zwMAAA==</data>
-				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>model</key>
-				<string>Intel UHD Graphics 630</string>
-			</dict>
-			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0) 1</key>
-			<dict>
-				<key>CAIL_EnableLBPWSupport</key>
-				<integer>0</integer>
-				<key>CFG_TRANS_WSRV</key>
-				<integer>1</integer>
-				<key>CFG_USE_SCANOUT</key>
-				<integer>1</integer>
-				<key>CFG_USE_PSR</key>
-				<integer>0</integer>
-				<key>CFG_USE_TCON</key>
-				<integer>1</integer>
-				<key>CFG_USE_CPSTATUS</key>
-				<integer>1</integer>
-				<key>ATY,Rom#</key>
-				<string>113-1E4112U-S46</string>
-				<key>CFG_USE_DPT</key>
-				<integer>1</integer>
-				<key>ATY,FamilyName</key>
-				<string>Radeon Pro</string>
-				<key>device_type</key>
-				<string>ATY,AdderParent</string>
-				<key>@3,name</key>
-				<string>ATY,Adder</string>
-				<key>CFG_FB_LIMIT</key>
-				<integer>0</integer>
-				<key>CFG_USE_CP2</key>
-				<integer>1</integer>
-				<key>CFG_USE_AGDC</key>
-				<integer>1</integer>
-				<key>CFG_USE_FBC</key>
-				<integer>0</integer>
-				<key>PP_DisableVoltageIsland</key>
-				<integer>0</integer>
-				<key>@2,name</key>
-				<string>ATY,Adder</string>
-				<key>CAIL_EnableMaxPlayloadSizeSync</key>
-				<integer>1</integer>
-				<key>@1,name</key>
-				<string>ATY,Adder</string>
-				<key>CFG_CAA</key>
-				<integer>0</integer>
-				<key>CFG_GEN_FLAGS</key>
-				<integer>0</integer>
-				<key>ATY,Copyright</key>
-				<string>Copyright AMD Inc. All Rights Reserved. 2005-2019</string>
-				<key>PP_DisablePowerContainment</key>
-				<integer>1</integer>
-				<key>ATY,DeviceName</key>
-				<string>W5700X</string>
-				<key>CFG_FORCE_MAX_DPS</key>
-				<integer>1</integer>
-				<key>CFG_TPS1S</key>
-				<integer>1</integer>
-				<key>PP_DisableDIDT</key>
-				<integer>1</integer>
-				<key>CFG_USE_LPT</key>
-				<integer>1</integer>
-				<key>CFG_PULSE_INT</key>
-				<integer>1</integer>
-				<key>name</key>
-				<string>ATY_GPU</string>
-				<key>ATY,Card#</key>
-				<string>102-D32200-00</string>
-				<key>PP_FuzzyFanControl</key>
-				<integer>1</integer>
-				<key>AAPL00,DualLink</key>
-				<data>AQAAAA==</data>
-				<key>ATY,EFIVersion</key>
-				<string>01.01.190</string>
-				<key>CFG_PAA</key>
-				<integer>0</integer>
-				<key>CFG_USE_FEDS</key>
-				<integer>1</integer>
-				<key>CFG_USE_FBWRKLP</key>
-				<integer>1</integer>
-				<key>model</key>
-				<string>Radeon Pro W5700X</string>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
-				<key>CFG_UFL_STP</key>
-				<integer>0</integer>
-				<key>CFG_USE_STUTTER</key>
-				<integer>1</integer>
-				<key>CFG_NVV</key>
-				<integer>2</integer>
-				<key>CFG_USE_SRRB</key>
-				<integer>0</integer>
-				<key>CFG_UFL_CHK</key>
-				<integer>0</integer>
-				<key>@0,name</key>
-				<string>ATY,Adder</string>
-				<key>CFG_NO_MST</key>
-				<integer>0</integer>
-				<key>AAPL,slot-name</key>
-				<string>Slot-1</string>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -616,6 +600,8 @@
 			<false/>
 			<key>PowerTimeoutKernelPanic</key>
 			<false/>
+			<key>ProvideCurrentCpuInfo</key>
+			<false/>
 			<key>SetApfsTrimTimeout</key>
 			<integer>0</integer>
 			<key>ThirdPartyDrives</key>
@@ -625,6 +611,8 @@
 		</dict>
 		<key>Scheme</key>
 		<dict>
+			<key>CustomKernel</key>
+			<false/>
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
@@ -656,7 +644,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Modern</string>
+			<string>Default</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -693,6 +681,8 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
+			<key>AllowToggleSip</key>
+			<false/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
@@ -810,7 +800,7 @@
 		<false/>
 		<key>Generic</key>
 		<dict>
-			<key>AdviseWindows</key>
+			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
 			<string></string>
@@ -865,6 +855,8 @@
 			<string>Auto</string>
 			<key>CustomDelays</key>
 			<true/>
+			<key>GraphicsInputMirroring</key>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
@@ -889,7 +881,7 @@
 			<key>PlayChime</key>
 			<string>Auto</string>
 			<key>ResetTrafficClass</key>
-			<false/>
+			<true/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
@@ -899,10 +891,38 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>OpenHfsPlus.efi</string>
-			<string>OpenRuntime.efi</string>
-			<string>OpenCanopy.efi</string>
-			<string>#AudioDxe.efi</string>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenHfsPlus.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>Path</key>
+				<string>AudioDxe.efi</string>
+			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -934,7 +954,7 @@
 			<key>ForceResolution</key>
 			<false/>
 			<key>GopPassThrough</key>
-			<false/>
+			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
 			<key>ProvideConsoleGop</key>
@@ -959,6 +979,8 @@
 			<key>AppleBootPolicy</key>
 			<false/>
 			<key>AppleDebugLog</key>
+			<false/>
+			<key>AppleEg2Info</key>
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
@@ -999,6 +1021,8 @@
 			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForceOcWriteFlash</key>
+			<false/>
 			<key>ForgeUefiSupport</key>
 			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
