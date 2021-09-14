@@ -5,6 +5,17 @@
 ### 更新日志  
 
 
+9-12-2021
+更新OpenCore至0.7.3  
+相关驱动更新  
+Lilu V1.5.6  
+AppleALC V1.6.4  
+VirtualSMC V1.2.7  
+SMCProcessor V1.2.7  
+SMCSuperIO V1.2.7  
+IntelMausi V1.0.7
+
+
 5-4-2021  
 更新OpenCore至0.6.9  
 相关驱动更新  
