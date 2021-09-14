@@ -3,6 +3,18 @@
   
   
 ### Changelog  
+
+9-12-2021  
+Update OpenCore to 0.7.3  
+Related driver update  
+Lilu V1.5.6  
+WhateverGreen V1.5.3  
+AppleALC V1.6.4  
+VirtualSMC V1.2.7  
+SMCProcessor V1.2.7  
+SMCSuperIO V1.2.7  
+IntelMausi V1.0.7  
+
   
 5-4-2021  
 Update OpenCore to 0.6.9  
